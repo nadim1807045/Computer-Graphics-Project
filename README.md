@@ -8,3 +8,4 @@ Step by Step running project . Descriptions in the Figure no.
 ![Screenshot (178)](https://github.com/nadim1807045/Computer-Graphics-Project/assets/105338453/3b5a5413-915c-480e-b087-9aefd2a2251a)
 ![Screenshot (179)](https://github.com/nadim1807045/Computer-Graphics-Project/assets/105338453/8ed87223-5cab-431d-80b7-0303b2628d88)
 ![Screenshot (180)](https://github.com/nadim1807045/Computer-Graphics-Project/assets/105338453/bbfe9dd8-5197-45c8-b8f1-8c8b520c8565)
+# After running the project in Microsoft Visual Studio, follow the instructions the Docyard.pptx file
